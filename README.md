@@ -49,7 +49,7 @@ Antes de comenzar, asegúrate de tener instalado lo siguiente en tu sistema:
 1. **Clona este repositorio:**
 
 ```bash
-git clone https://github.com/Daniheto/No-Country-Back-End.git
+git clone https://github.com/No-Country-simulation/c21-13-m-python-react.git
 ```
 
 2. **Crear el entorno virtual:**
